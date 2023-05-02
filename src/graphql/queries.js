@@ -15,6 +15,12 @@ export const GET_FILM_INFO = gql`
     query GetFilmInfo($id: ID) {
         film(id: $id) {
             title
+            openingCrawl
+            planetConnection {
+                planets {
+                    name
+                }
+            }
         }
     }
 `;
