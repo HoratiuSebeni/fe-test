@@ -24,3 +24,9 @@ You can find a reference to the GraphQL API here: https://studio.apollographql.c
 2. Solve as many tasks as you can and commit them in a fitting manner
 3. Upload the forked repository and
 4. Share the repository with us by either making it public and send us the repository link _or_ inviting us to the forked project.
+
+---
+
+## Styling package
+
+-   I used bootstrap as a styling package for this project. I imported components like Card, Table, Modal and I used classes from this styling package. Also to make the table and the modal to look nice I write some JavaScript Objects and inline styling.
